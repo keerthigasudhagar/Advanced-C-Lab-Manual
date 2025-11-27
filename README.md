@@ -1,6 +1,6 @@
 # EXP NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
-# NAME: PAVITHRAN MJ
-# REG NO: 212223240112
+# NAME: Keerthika S
+# REG NO: 212223040093
 ### Aim:
 ### To write a C program print the lowercase English word corresponding to the number
 ### Algorithm:
